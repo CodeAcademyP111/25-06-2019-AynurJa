@@ -1,0 +1,6 @@
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

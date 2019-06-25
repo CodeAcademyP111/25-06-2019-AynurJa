@@ -1,0 +1,10 @@
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\bin\Debug\NamespaceApp.exe.config
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\bin\Debug\NamespaceApp.exe
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\bin\Debug\NamespaceApp.pdb
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\obj\Debug\NamespaceApp.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\obj\Debug\NamespaceApp.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\obj\Debug\NamespaceApp.exe
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\obj\Debug\NamespaceApp.pdb
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\bin\Debug\ClassLibrary.dll
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\bin\Debug\ClassLibrary.pdb
+C:\Users\Aishe\Desktop\p111\C#\25.06.2019\NamespaceApp\NamespaceApp\obj\Debug\NamespaceApp.csproj.CopyComplete
